@@ -1,9 +1,7 @@
 # 在线聊天室(Making a Web Chat With PHP and Swoole)
 
 ------
-@author: 翎羽鹭 (http://www.hellosee.cc)
-
-@email: 1335244575@qq.com
+@email: 1170361748@qq.com
 
 使用swoole扩展和php开发的一个在线聊天室，**目前实现的功能有** ：
 
@@ -15,7 +13,7 @@
 > * 显示消息数
 
 在线聊天DEMO：
-### [在线聊天室](http://chat.hellosee.cc/)  http://chat.hellosee.cc
+### [在线聊天室] http://webim.itsideline.com/
 
 # 如何运行？
 
@@ -25,7 +23,7 @@
 
 3.修改server/config.inc.php 文件。将下面一行代码修改为您的域名或者IP。
 
-> define("DOMAIN","http://192.168.56.133:8081");
+> define("DOMAIN","http://webim.itsideline.com:8081");
 
 并且将下面这样修改为rooms目录所在的路径
 
